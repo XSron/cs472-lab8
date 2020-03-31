@@ -1,0 +1,4 @@
+/*
+    count is a free variable because it is not locally declare and not pass by 
+    parameter
+*/
